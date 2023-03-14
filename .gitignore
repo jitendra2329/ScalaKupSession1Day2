@@ -1,2 +1,8 @@
 *.class
 *.log
+
+*/.bsp/
+*/.idea/
+/FindFactorial/project/target/
+/FindFactorial/target/
+
